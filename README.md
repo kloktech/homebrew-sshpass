@@ -7,7 +7,7 @@ Homebrew maintainers are still refusing to add sshpass for security reasons.
 
 1. add tap
 ```
-brew tap perkons/sshpass
+brew tap kloktech/sshpass
 ```
 2. install sshpass
 ```
@@ -35,5 +35,5 @@ brew rm sshpass
 ```
 2. remove tap
 ```
-brew untap perkons/sshpass
+brew untap kloktech/sshpass
 ```

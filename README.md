@@ -19,7 +19,7 @@ brew install sshpass
 1. install via URL (no updates):
 
 ```
-brew install https://raw.githubusercontent.com/perkons/homebrew-sshpass/master/sshpass.rb
+brew install https://raw.githubusercontent.com/kloktech/homebrew-sshpass/master/sshpass.rb
 ```
 or
 ```

@@ -23,7 +23,7 @@ brew install https://raw.githubusercontent.com/perkons/homebrew-sshpass/master/s
 ```
 or
 ```
-brew install perkons/homebrew-sshpass/sshpass
+brew install kloktech/homebrew-sshpass/sshpass
 ```
 
 ## Uninstall
